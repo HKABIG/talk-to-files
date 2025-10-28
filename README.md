@@ -2,7 +2,7 @@
 
 ## Architecture
 
-![RAG Based PDF Retrieval System](https://gitlab.intra.infineon.com/ifx/it/ads/testproject/2024/talktofiles/-/raw/version-1/talktofiles.png?ref_type=heads)
+![RAG Based PDF Retrieval System](https://github.com/HKABIG/talk-to-files/blob/main/talktofiles.png)
 
 ## Getting Started
 
