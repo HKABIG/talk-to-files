@@ -1,0 +1,14 @@
+# Distribution / packaging
+.env
+.chainlit
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Ignore virtual environment directories
+myvenv/
+
+chainlit.md
+
+
+
